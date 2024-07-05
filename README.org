@@ -4,6 +4,6 @@ CLOG - The Common Lisp Omnificent GUI
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/rabbibotton/clog.git |
-| commit  | f110cdf                                     |
+| commit  | 8ebc9e1                                     |
 | systems | clog clog/tools                             |
 |---------+---------------------------------------------|
